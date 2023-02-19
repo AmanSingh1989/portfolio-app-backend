@@ -1,0 +1,12 @@
+{
+  "intrumentType": {
+    "instrumentType": 0,
+    "instrumentName": "AXIS BANK",
+    "instrumentSymbol": "AXISBANK"
+  },
+  "units": 20,
+  "investedAmt": 20000.00,
+  "currentAmt": 60000.00,
+  "pricePerUnit": 6.0,
+  "links": "http://google.com"
+}
